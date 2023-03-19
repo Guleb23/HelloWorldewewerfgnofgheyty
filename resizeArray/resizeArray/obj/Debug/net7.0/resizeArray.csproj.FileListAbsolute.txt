@@ -1,0 +1,15 @@
+C:\Users\глеб\source\repos\resizeArray\resizeArray\bin\Debug\net7.0\resizeArray.exe
+C:\Users\глеб\source\repos\resizeArray\resizeArray\bin\Debug\net7.0\resizeArray.deps.json
+C:\Users\глеб\source\repos\resizeArray\resizeArray\bin\Debug\net7.0\resizeArray.runtimeconfig.json
+C:\Users\глеб\source\repos\resizeArray\resizeArray\bin\Debug\net7.0\resizeArray.dll
+C:\Users\глеб\source\repos\resizeArray\resizeArray\bin\Debug\net7.0\resizeArray.pdb
+C:\Users\глеб\source\repos\resizeArray\resizeArray\obj\Debug\net7.0\resizeArray.csproj.AssemblyReference.cache
+C:\Users\глеб\source\repos\resizeArray\resizeArray\obj\Debug\net7.0\resizeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\глеб\source\repos\resizeArray\resizeArray\obj\Debug\net7.0\resizeArray.AssemblyInfoInputs.cache
+C:\Users\глеб\source\repos\resizeArray\resizeArray\obj\Debug\net7.0\resizeArray.AssemblyInfo.cs
+C:\Users\глеб\source\repos\resizeArray\resizeArray\obj\Debug\net7.0\resizeArray.csproj.CoreCompileInputs.cache
+C:\Users\глеб\source\repos\resizeArray\resizeArray\obj\Debug\net7.0\resizeArray.dll
+C:\Users\глеб\source\repos\resizeArray\resizeArray\obj\Debug\net7.0\refint\resizeArray.dll
+C:\Users\глеб\source\repos\resizeArray\resizeArray\obj\Debug\net7.0\resizeArray.pdb
+C:\Users\глеб\source\repos\resizeArray\resizeArray\obj\Debug\net7.0\resizeArray.genruntimeconfig.cache
+C:\Users\глеб\source\repos\resizeArray\resizeArray\obj\Debug\net7.0\ref\resizeArray.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SsilochnieTyps/1.0.0": {
+        "runtime": {
+          "SsilochnieTyps.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SsilochnieTyps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

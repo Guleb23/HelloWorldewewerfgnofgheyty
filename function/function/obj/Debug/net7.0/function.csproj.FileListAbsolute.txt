@@ -1,0 +1,15 @@
+C:\Users\глеб\source\repos\function\function\bin\Debug\net7.0\function.exe
+C:\Users\глеб\source\repos\function\function\bin\Debug\net7.0\function.deps.json
+C:\Users\глеб\source\repos\function\function\bin\Debug\net7.0\function.runtimeconfig.json
+C:\Users\глеб\source\repos\function\function\bin\Debug\net7.0\function.dll
+C:\Users\глеб\source\repos\function\function\bin\Debug\net7.0\function.pdb
+C:\Users\глеб\source\repos\function\function\obj\Debug\net7.0\function.csproj.AssemblyReference.cache
+C:\Users\глеб\source\repos\function\function\obj\Debug\net7.0\function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\глеб\source\repos\function\function\obj\Debug\net7.0\function.AssemblyInfoInputs.cache
+C:\Users\глеб\source\repos\function\function\obj\Debug\net7.0\function.AssemblyInfo.cs
+C:\Users\глеб\source\repos\function\function\obj\Debug\net7.0\function.csproj.CoreCompileInputs.cache
+C:\Users\глеб\source\repos\function\function\obj\Debug\net7.0\function.dll
+C:\Users\глеб\source\repos\function\function\obj\Debug\net7.0\refint\function.dll
+C:\Users\глеб\source\repos\function\function\obj\Debug\net7.0\function.pdb
+C:\Users\глеб\source\repos\function\function\obj\Debug\net7.0\function.genruntimeconfig.cache
+C:\Users\глеб\source\repos\function\function\obj\Debug\net7.0\ref\function.dll

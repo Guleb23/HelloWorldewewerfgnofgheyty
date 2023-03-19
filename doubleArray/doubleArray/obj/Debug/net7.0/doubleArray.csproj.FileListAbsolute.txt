@@ -1,0 +1,15 @@
+C:\Users\глеб\source\repos\doubleArray\doubleArray\bin\Debug\net7.0\doubleArray.exe
+C:\Users\глеб\source\repos\doubleArray\doubleArray\bin\Debug\net7.0\doubleArray.deps.json
+C:\Users\глеб\source\repos\doubleArray\doubleArray\bin\Debug\net7.0\doubleArray.runtimeconfig.json
+C:\Users\глеб\source\repos\doubleArray\doubleArray\bin\Debug\net7.0\doubleArray.dll
+C:\Users\глеб\source\repos\doubleArray\doubleArray\bin\Debug\net7.0\doubleArray.pdb
+C:\Users\глеб\source\repos\doubleArray\doubleArray\obj\Debug\net7.0\doubleArray.csproj.AssemblyReference.cache
+C:\Users\глеб\source\repos\doubleArray\doubleArray\obj\Debug\net7.0\doubleArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\глеб\source\repos\doubleArray\doubleArray\obj\Debug\net7.0\doubleArray.AssemblyInfoInputs.cache
+C:\Users\глеб\source\repos\doubleArray\doubleArray\obj\Debug\net7.0\doubleArray.AssemblyInfo.cs
+C:\Users\глеб\source\repos\doubleArray\doubleArray\obj\Debug\net7.0\doubleArray.csproj.CoreCompileInputs.cache
+C:\Users\глеб\source\repos\doubleArray\doubleArray\obj\Debug\net7.0\doubleArray.dll
+C:\Users\глеб\source\repos\doubleArray\doubleArray\obj\Debug\net7.0\refint\doubleArray.dll
+C:\Users\глеб\source\repos\doubleArray\doubleArray\obj\Debug\net7.0\doubleArray.pdb
+C:\Users\глеб\source\repos\doubleArray\doubleArray\obj\Debug\net7.0\doubleArray.genruntimeconfig.cache
+C:\Users\глеб\source\repos\doubleArray\doubleArray\obj\Debug\net7.0\ref\doubleArray.dll

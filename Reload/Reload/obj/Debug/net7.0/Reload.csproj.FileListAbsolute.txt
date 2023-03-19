@@ -1,0 +1,15 @@
+C:\Users\глеб\source\repos\Reload\Reload\bin\Debug\net7.0\Reload.exe
+C:\Users\глеб\source\repos\Reload\Reload\bin\Debug\net7.0\Reload.deps.json
+C:\Users\глеб\source\repos\Reload\Reload\bin\Debug\net7.0\Reload.runtimeconfig.json
+C:\Users\глеб\source\repos\Reload\Reload\bin\Debug\net7.0\Reload.dll
+C:\Users\глеб\source\repos\Reload\Reload\bin\Debug\net7.0\Reload.pdb
+C:\Users\глеб\source\repos\Reload\Reload\obj\Debug\net7.0\Reload.csproj.AssemblyReference.cache
+C:\Users\глеб\source\repos\Reload\Reload\obj\Debug\net7.0\Reload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\глеб\source\repos\Reload\Reload\obj\Debug\net7.0\Reload.AssemblyInfoInputs.cache
+C:\Users\глеб\source\repos\Reload\Reload\obj\Debug\net7.0\Reload.AssemblyInfo.cs
+C:\Users\глеб\source\repos\Reload\Reload\obj\Debug\net7.0\Reload.csproj.CoreCompileInputs.cache
+C:\Users\глеб\source\repos\Reload\Reload\obj\Debug\net7.0\Reload.dll
+C:\Users\глеб\source\repos\Reload\Reload\obj\Debug\net7.0\refint\Reload.dll
+C:\Users\глеб\source\repos\Reload\Reload\obj\Debug\net7.0\Reload.pdb
+C:\Users\глеб\source\repos\Reload\Reload\obj\Debug\net7.0\Reload.genruntimeconfig.cache
+C:\Users\глеб\source\repos\Reload\Reload\obj\Debug\net7.0\ref\Reload.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SsilochnieTyps", "SsilochnieTyps\SsilochnieTyps.csproj", "{748F5B9B-A03B-47DE-9CBD-459B5C1F7B47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RashArray", "RashArray\RashArray.csproj", "{BE0E64D2-09AE-422E-99CC-BE88CD08408C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748F5B9B-A03B-47DE-9CBD-459B5C1F7B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748F5B9B-A03B-47DE-9CBD-459B5C1F7B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748F5B9B-A03B-47DE-9CBD-459B5C1F7B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748F5B9B-A03B-47DE-9CBD-459B5C1F7B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0E64D2-09AE-422E-99CC-BE88CD08408C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0E64D2-09AE-422E-99CC-BE88CD08408C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0E64D2-09AE-422E-99CC-BE88CD08408C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0E64D2-09AE-422E-99CC-BE88CD08408C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AACA3DE-7D9D-46C7-B235-46957D80E6A8}
+	EndGlobalSection
+EndGlobal

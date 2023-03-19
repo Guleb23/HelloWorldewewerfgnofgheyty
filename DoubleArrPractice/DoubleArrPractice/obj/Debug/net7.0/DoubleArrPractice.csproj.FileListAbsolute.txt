@@ -1,0 +1,15 @@
+C:\Users\глеб\source\repos\DoubleArrPractice\DoubleArrPractice\bin\Debug\net7.0\DoubleArrPractice.exe
+C:\Users\глеб\source\repos\DoubleArrPractice\DoubleArrPractice\bin\Debug\net7.0\DoubleArrPractice.deps.json
+C:\Users\глеб\source\repos\DoubleArrPractice\DoubleArrPractice\bin\Debug\net7.0\DoubleArrPractice.runtimeconfig.json
+C:\Users\глеб\source\repos\DoubleArrPractice\DoubleArrPractice\bin\Debug\net7.0\DoubleArrPractice.dll
+C:\Users\глеб\source\repos\DoubleArrPractice\DoubleArrPractice\bin\Debug\net7.0\DoubleArrPractice.pdb
+C:\Users\глеб\source\repos\DoubleArrPractice\DoubleArrPractice\obj\Debug\net7.0\DoubleArrPractice.csproj.AssemblyReference.cache
+C:\Users\глеб\source\repos\DoubleArrPractice\DoubleArrPractice\obj\Debug\net7.0\DoubleArrPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\глеб\source\repos\DoubleArrPractice\DoubleArrPractice\obj\Debug\net7.0\DoubleArrPractice.AssemblyInfoInputs.cache
+C:\Users\глеб\source\repos\DoubleArrPractice\DoubleArrPractice\obj\Debug\net7.0\DoubleArrPractice.AssemblyInfo.cs
+C:\Users\глеб\source\repos\DoubleArrPractice\DoubleArrPractice\obj\Debug\net7.0\DoubleArrPractice.csproj.CoreCompileInputs.cache
+C:\Users\глеб\source\repos\DoubleArrPractice\DoubleArrPractice\obj\Debug\net7.0\DoubleArrPractice.dll
+C:\Users\глеб\source\repos\DoubleArrPractice\DoubleArrPractice\obj\Debug\net7.0\refint\DoubleArrPractice.dll
+C:\Users\глеб\source\repos\DoubleArrPractice\DoubleArrPractice\obj\Debug\net7.0\DoubleArrPractice.pdb
+C:\Users\глеб\source\repos\DoubleArrPractice\DoubleArrPractice\obj\Debug\net7.0\DoubleArrPractice.genruntimeconfig.cache
+C:\Users\глеб\source\repos\DoubleArrPractice\DoubleArrPractice\obj\Debug\net7.0\ref\DoubleArrPractice.dll

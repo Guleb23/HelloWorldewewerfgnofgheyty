@@ -1,0 +1,15 @@
+C:\Users\глеб\source\repos\ChisloUebishe\ChisloUebishe\bin\Debug\net7.0\ChisloUebishe.exe
+C:\Users\глеб\source\repos\ChisloUebishe\ChisloUebishe\bin\Debug\net7.0\ChisloUebishe.deps.json
+C:\Users\глеб\source\repos\ChisloUebishe\ChisloUebishe\bin\Debug\net7.0\ChisloUebishe.runtimeconfig.json
+C:\Users\глеб\source\repos\ChisloUebishe\ChisloUebishe\bin\Debug\net7.0\ChisloUebishe.dll
+C:\Users\глеб\source\repos\ChisloUebishe\ChisloUebishe\bin\Debug\net7.0\ChisloUebishe.pdb
+C:\Users\глеб\source\repos\ChisloUebishe\ChisloUebishe\obj\Debug\net7.0\ChisloUebishe.csproj.AssemblyReference.cache
+C:\Users\глеб\source\repos\ChisloUebishe\ChisloUebishe\obj\Debug\net7.0\ChisloUebishe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\глеб\source\repos\ChisloUebishe\ChisloUebishe\obj\Debug\net7.0\ChisloUebishe.AssemblyInfoInputs.cache
+C:\Users\глеб\source\repos\ChisloUebishe\ChisloUebishe\obj\Debug\net7.0\ChisloUebishe.AssemblyInfo.cs
+C:\Users\глеб\source\repos\ChisloUebishe\ChisloUebishe\obj\Debug\net7.0\ChisloUebishe.csproj.CoreCompileInputs.cache
+C:\Users\глеб\source\repos\ChisloUebishe\ChisloUebishe\obj\Debug\net7.0\ChisloUebishe.dll
+C:\Users\глеб\source\repos\ChisloUebishe\ChisloUebishe\obj\Debug\net7.0\refint\ChisloUebishe.dll
+C:\Users\глеб\source\repos\ChisloUebishe\ChisloUebishe\obj\Debug\net7.0\ChisloUebishe.pdb
+C:\Users\глеб\source\repos\ChisloUebishe\ChisloUebishe\obj\Debug\net7.0\ChisloUebishe.genruntimeconfig.cache
+C:\Users\глеб\source\repos\ChisloUebishe\ChisloUebishe\obj\Debug\net7.0\ref\ChisloUebishe.dll

@@ -1,0 +1,15 @@
+C:\Users\глеб\source\repos\RefOut\RefOut\bin\Debug\net7.0\RefOut.exe
+C:\Users\глеб\source\repos\RefOut\RefOut\bin\Debug\net7.0\RefOut.deps.json
+C:\Users\глеб\source\repos\RefOut\RefOut\bin\Debug\net7.0\RefOut.runtimeconfig.json
+C:\Users\глеб\source\repos\RefOut\RefOut\bin\Debug\net7.0\RefOut.dll
+C:\Users\глеб\source\repos\RefOut\RefOut\bin\Debug\net7.0\RefOut.pdb
+C:\Users\глеб\source\repos\RefOut\RefOut\obj\Debug\net7.0\RefOut.csproj.AssemblyReference.cache
+C:\Users\глеб\source\repos\RefOut\RefOut\obj\Debug\net7.0\RefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\глеб\source\repos\RefOut\RefOut\obj\Debug\net7.0\RefOut.AssemblyInfoInputs.cache
+C:\Users\глеб\source\repos\RefOut\RefOut\obj\Debug\net7.0\RefOut.AssemblyInfo.cs
+C:\Users\глеб\source\repos\RefOut\RefOut\obj\Debug\net7.0\RefOut.csproj.CoreCompileInputs.cache
+C:\Users\глеб\source\repos\RefOut\RefOut\obj\Debug\net7.0\RefOut.dll
+C:\Users\глеб\source\repos\RefOut\RefOut\obj\Debug\net7.0\refint\RefOut.dll
+C:\Users\глеб\source\repos\RefOut\RefOut\obj\Debug\net7.0\RefOut.pdb
+C:\Users\глеб\source\repos\RefOut\RefOut\obj\Debug\net7.0\RefOut.genruntimeconfig.cache
+C:\Users\глеб\source\repos\RefOut\RefOut\obj\Debug\net7.0\ref\RefOut.dll

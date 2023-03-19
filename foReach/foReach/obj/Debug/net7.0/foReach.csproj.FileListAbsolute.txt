@@ -1,0 +1,15 @@
+C:\Users\глеб\source\repos\foReach\foReach\bin\Debug\net7.0\foReach.exe
+C:\Users\глеб\source\repos\foReach\foReach\bin\Debug\net7.0\foReach.deps.json
+C:\Users\глеб\source\repos\foReach\foReach\bin\Debug\net7.0\foReach.runtimeconfig.json
+C:\Users\глеб\source\repos\foReach\foReach\bin\Debug\net7.0\foReach.dll
+C:\Users\глеб\source\repos\foReach\foReach\bin\Debug\net7.0\foReach.pdb
+C:\Users\глеб\source\repos\foReach\foReach\obj\Debug\net7.0\foReach.csproj.AssemblyReference.cache
+C:\Users\глеб\source\repos\foReach\foReach\obj\Debug\net7.0\foReach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\глеб\source\repos\foReach\foReach\obj\Debug\net7.0\foReach.AssemblyInfoInputs.cache
+C:\Users\глеб\source\repos\foReach\foReach\obj\Debug\net7.0\foReach.AssemblyInfo.cs
+C:\Users\глеб\source\repos\foReach\foReach\obj\Debug\net7.0\foReach.csproj.CoreCompileInputs.cache
+C:\Users\глеб\source\repos\foReach\foReach\obj\Debug\net7.0\foReach.dll
+C:\Users\глеб\source\repos\foReach\foReach\obj\Debug\net7.0\refint\foReach.dll
+C:\Users\глеб\source\repos\foReach\foReach\obj\Debug\net7.0\foReach.pdb
+C:\Users\глеб\source\repos\foReach\foReach\obj\Debug\net7.0\foReach.genruntimeconfig.cache
+C:\Users\глеб\source\repos\foReach\foReach\obj\Debug\net7.0\ref\foReach.dll

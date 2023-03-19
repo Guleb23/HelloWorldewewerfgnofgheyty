@@ -1,0 +1,15 @@
+C:\Users\глеб\source\repos\PacMan\PacMan\obj\Debug\net7.0\PacMan.csproj.AssemblyReference.cache
+C:\Users\глеб\source\repos\PacMan\PacMan\obj\Debug\net7.0\PacMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\глеб\source\repos\PacMan\PacMan\obj\Debug\net7.0\PacMan.AssemblyInfoInputs.cache
+C:\Users\глеб\source\repos\PacMan\PacMan\obj\Debug\net7.0\PacMan.AssemblyInfo.cs
+C:\Users\глеб\source\repos\PacMan\PacMan\obj\Debug\net7.0\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\глеб\source\repos\PacMan\PacMan\bin\Debug\net7.0\PacMan.exe
+C:\Users\глеб\source\repos\PacMan\PacMan\bin\Debug\net7.0\PacMan.deps.json
+C:\Users\глеб\source\repos\PacMan\PacMan\bin\Debug\net7.0\PacMan.runtimeconfig.json
+C:\Users\глеб\source\repos\PacMan\PacMan\bin\Debug\net7.0\PacMan.dll
+C:\Users\глеб\source\repos\PacMan\PacMan\bin\Debug\net7.0\PacMan.pdb
+C:\Users\глеб\source\repos\PacMan\PacMan\obj\Debug\net7.0\PacMan.dll
+C:\Users\глеб\source\repos\PacMan\PacMan\obj\Debug\net7.0\refint\PacMan.dll
+C:\Users\глеб\source\repos\PacMan\PacMan\obj\Debug\net7.0\PacMan.pdb
+C:\Users\глеб\source\repos\PacMan\PacMan\obj\Debug\net7.0\PacMan.genruntimeconfig.cache
+C:\Users\глеб\source\repos\PacMan\PacMan\obj\Debug\net7.0\ref\PacMan.dll

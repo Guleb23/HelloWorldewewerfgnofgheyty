@@ -1,0 +1,15 @@
+C:\Users\глеб\source\repos\SsilochnieTyps\SsilochnieTyps\bin\Debug\net7.0\SsilochnieTyps.exe
+C:\Users\глеб\source\repos\SsilochnieTyps\SsilochnieTyps\bin\Debug\net7.0\SsilochnieTyps.deps.json
+C:\Users\глеб\source\repos\SsilochnieTyps\SsilochnieTyps\bin\Debug\net7.0\SsilochnieTyps.runtimeconfig.json
+C:\Users\глеб\source\repos\SsilochnieTyps\SsilochnieTyps\bin\Debug\net7.0\SsilochnieTyps.dll
+C:\Users\глеб\source\repos\SsilochnieTyps\SsilochnieTyps\bin\Debug\net7.0\SsilochnieTyps.pdb
+C:\Users\глеб\source\repos\SsilochnieTyps\SsilochnieTyps\obj\Debug\net7.0\SsilochnieTyps.csproj.AssemblyReference.cache
+C:\Users\глеб\source\repos\SsilochnieTyps\SsilochnieTyps\obj\Debug\net7.0\SsilochnieTyps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\глеб\source\repos\SsilochnieTyps\SsilochnieTyps\obj\Debug\net7.0\SsilochnieTyps.AssemblyInfoInputs.cache
+C:\Users\глеб\source\repos\SsilochnieTyps\SsilochnieTyps\obj\Debug\net7.0\SsilochnieTyps.AssemblyInfo.cs
+C:\Users\глеб\source\repos\SsilochnieTyps\SsilochnieTyps\obj\Debug\net7.0\SsilochnieTyps.csproj.CoreCompileInputs.cache
+C:\Users\глеб\source\repos\SsilochnieTyps\SsilochnieTyps\obj\Debug\net7.0\SsilochnieTyps.dll
+C:\Users\глеб\source\repos\SsilochnieTyps\SsilochnieTyps\obj\Debug\net7.0\refint\SsilochnieTyps.dll
+C:\Users\глеб\source\repos\SsilochnieTyps\SsilochnieTyps\obj\Debug\net7.0\SsilochnieTyps.pdb
+C:\Users\глеб\source\repos\SsilochnieTyps\SsilochnieTyps\obj\Debug\net7.0\SsilochnieTyps.genruntimeconfig.cache
+C:\Users\глеб\source\repos\SsilochnieTyps\SsilochnieTyps\obj\Debug\net7.0\ref\SsilochnieTyps.dll

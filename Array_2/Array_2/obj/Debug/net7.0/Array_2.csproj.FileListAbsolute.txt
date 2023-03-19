@@ -1,0 +1,15 @@
+C:\Users\глеб\source\repos\Array_2\Array_2\bin\Debug\net7.0\Array_2.exe
+C:\Users\глеб\source\repos\Array_2\Array_2\bin\Debug\net7.0\Array_2.deps.json
+C:\Users\глеб\source\repos\Array_2\Array_2\bin\Debug\net7.0\Array_2.runtimeconfig.json
+C:\Users\глеб\source\repos\Array_2\Array_2\bin\Debug\net7.0\Array_2.dll
+C:\Users\глеб\source\repos\Array_2\Array_2\bin\Debug\net7.0\Array_2.pdb
+C:\Users\глеб\source\repos\Array_2\Array_2\obj\Debug\net7.0\Array_2.csproj.AssemblyReference.cache
+C:\Users\глеб\source\repos\Array_2\Array_2\obj\Debug\net7.0\Array_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\глеб\source\repos\Array_2\Array_2\obj\Debug\net7.0\Array_2.AssemblyInfoInputs.cache
+C:\Users\глеб\source\repos\Array_2\Array_2\obj\Debug\net7.0\Array_2.AssemblyInfo.cs
+C:\Users\глеб\source\repos\Array_2\Array_2\obj\Debug\net7.0\Array_2.csproj.CoreCompileInputs.cache
+C:\Users\глеб\source\repos\Array_2\Array_2\obj\Debug\net7.0\Array_2.dll
+C:\Users\глеб\source\repos\Array_2\Array_2\obj\Debug\net7.0\refint\Array_2.dll
+C:\Users\глеб\source\repos\Array_2\Array_2\obj\Debug\net7.0\Array_2.pdb
+C:\Users\глеб\source\repos\Array_2\Array_2\obj\Debug\net7.0\Array_2.genruntimeconfig.cache
+C:\Users\глеб\source\repos\Array_2\Array_2\obj\Debug\net7.0\ref\Array_2.dll
